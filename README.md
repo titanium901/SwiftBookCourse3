@@ -12,5 +12,16 @@ Guard and Scope (Lab Playground)
 <img width="1059" alt="lesson2 1" src="https://user-images.githubusercontent.com/30910230/56890084-1b213f80-6a81-11e9-8750-34a0095f1238.png">
 
 # Lesson3
+Enum (Lab Playground) 
+<img width="1070" alt="lesson3" src="https://user-images.githubusercontent.com/30910230/56960339-1a5bdc80-6b59-11e9-9078-43323847e375.png">
+
+# Lesson3.1
+Login form. Work with segue.
+
+![loginLab](https://user-images.githubusercontent.com/30910230/56960410-5e4ee180-6b59-11e9-8b60-d1e9fdae2b76.gif)
+
+
+
+
 
 
