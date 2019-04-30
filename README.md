@@ -5,15 +5,18 @@ Swift Book (level 3) - home work
 
 # Lesson1 
 Optionals and Type Casting (Lab Playground)
-<img width="752" alt="lesson1" src="https://user-images.githubusercontent.com/30910230/56882826-72b5b000-6a6d-11e9-908c-833e424af564.png">
+
+<img width="500" alt="lesson1" src="https://user-images.githubusercontent.com/30910230/56882826-72b5b000-6a6d-11e9-908c-833e424af564.png">
 
 # Lesson2 
 Guard and Scope (Lab Playground)
-<img width="1059" alt="lesson2 1" src="https://user-images.githubusercontent.com/30910230/56890084-1b213f80-6a81-11e9-8750-34a0095f1238.png">
+
+<img width="500" alt="lesson2 1" src="https://user-images.githubusercontent.com/30910230/56890084-1b213f80-6a81-11e9-8750-34a0095f1238.png">
 
 # Lesson3
 Enum (Lab Playground) 
-<img width="1070" alt="lesson3" src="https://user-images.githubusercontent.com/30910230/56960339-1a5bdc80-6b59-11e9-9078-43323847e375.png">
+
+<img width="500" alt="lesson3" src="https://user-images.githubusercontent.com/30910230/56960339-1a5bdc80-6b59-11e9-9078-43323847e375.png">
 
 # Lesson3.1
 Login form. Work with segue.
