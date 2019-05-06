@@ -19,9 +19,21 @@ Enum (Lab Playground)
 <img width="500" alt="lesson3" src="https://user-images.githubusercontent.com/30910230/56960339-1a5bdc80-6b59-11e9-9078-43323847e375.png">
 
 # Lesson3.1
-Login form. Work with segue.
+Login form - Work with segue
 
 ![loginLab](https://user-images.githubusercontent.com/30910230/56960410-5e4ee180-6b59-11e9-8b60-d1e9fdae2b76.gif)
+
+# Lesson4
+Tab Bar App - About Me
+
+![aboutMeTabBar](https://user-images.githubusercontent.com/30910230/57247357-3fb08500-7048-11e9-8e1d-da405c2ce4f5.gif)
+
+# Lesson4.1
+Life Cycle - Tab bar App
+
+![lifeCycle](https://user-images.githubusercontent.com/30910230/57247421-7be3e580-7048-11e9-9d41-4a14c9fe67a5.gif)
+
+
 
 
 
