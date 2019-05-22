@@ -73,6 +73,8 @@ __
 # Lesson14
 
 Simple App - Without using a storyboard 
+Following tutorial by Oleg Chernyshenko https://www.youtube.com/watch?v=stHT55cN--8&list=PLtzVTqflKiJzjpCKDaPI4DX2PH51-5ha8
+
 
 ![noCode](https://user-images.githubusercontent.com/30910230/58108982-6dbfc880-7bf5-11e9-96b0-7cb6be17b221.gif)
 
