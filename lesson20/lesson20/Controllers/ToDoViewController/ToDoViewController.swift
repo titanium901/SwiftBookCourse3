@@ -11,7 +11,9 @@ import UIKit
 
 class ToDoViewController: UITableViewController {
     
+    
     // MARK: - @IBOutlet
+    @IBOutlet weak var cancelButton: UIBarButtonItem!
     @IBOutlet weak var saveButton: UIBarButtonItem!
     @IBOutlet weak var isCompleteButton: UIButton!
     @IBOutlet weak var titleTextField: UITextField!
@@ -35,6 +37,7 @@ class ToDoViewController: UITableViewController {
     // MARK: - UITableViewController Methods
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(#function)
         dueDatePicker.date = Date().addingTimeInterval(24 * 60 * 60)
         setupNavBar()
         updateSaveButtonState()
@@ -42,10 +45,22 @@ class ToDoViewController: UITableViewController {
         updateUI()
         textEditingChanged(titleTextField)
         setupToolBarDoneButton()
+       
         
        
         
         
+    }
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        //удаляю объект и дезейблю cancel button так как при любом нажатии на save добавляется новый объет
+        //в дальнейшем надеюсь найти решение изящней 
+        if navigationItem.title == "Edit To Do" {
+            try! ToDoClass.realm.write {
+                ToDoClass.realm.delete(todo!)
+            }
+            cancelButton.isEnabled = false
+        }
     }
     
     // MARK: - Method
