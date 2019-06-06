@@ -120,3 +120,9 @@ To Do List with Realm.io
 Animation
 
 ![animate](https://user-images.githubusercontent.com/30910230/59013412-90cbb880-8842-11e9-82be-494dbad61ac0.gif)
+
+# Lesson22
+
+Rick And Morty App (json) with https://rickandmortyapi.com/
+
+![rick](https://user-images.githubusercontent.com/30910230/59013817-b1484280-8843-11e9-9da0-2440b7e395e4.gif)
